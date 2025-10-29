@@ -1,62 +1,183 @@
 {
   "days_read": [
-    "2024-06-02",
-    "2024-06-03",
-    "2024-06-04",
+    "2025-10-17",
+    "2025-10-18",
+    "2025-10-19",
+    "2025-10-20",
     "2025-10-21",
+    "2025-10-22",
     "2025-10-23",
     "2025-10-24",
     "2025-10-25",
     "2025-10-26",
     "2025-10-27",
-    "2025-10-28"
+    "2025-10-28",
+    "2025-10-29"
   ],
   "current_daily_streak": {
-    "duration": 6,
+    "duration": 13,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-10-28T07:00:00.000Z",
-    "start": "2025-10-23T00:00:00.000Z",
-    "end": "2025-10-28T00:00:00.000Z",
-    "ttl": 1761700836
+    "utcEndTime": "2025-10-29T07:00:00.000Z",
+    "start": "2025-10-17T00:00:00.000Z",
+    "end": "2025-10-29T00:00:00.000Z",
+    "ttl": 1761751892
   },
   "longest_daily_streak": {
-    "duration": 6,
+    "duration": 13,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-10-28T07:00:00.000Z",
-    "start": "2025-10-23T00:00:00.000Z",
-    "end": "2025-10-28T00:00:00.000Z"
+    "utcEndTime": "2025-10-29T07:00:00.000Z",
+    "start": "2025-10-17T00:00:00.000Z",
+    "end": "2025-10-29T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 2,
+    "duration": 3,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-10-28T07:00:00.000Z",
-    "start": "2025-10-21T00:00:00.000Z",
-    "end": "2025-10-28T00:00:00.000Z",
-    "ttl": 1761700836
+    "utcEndTime": "2025-10-29T07:00:00.000Z",
+    "start": "2025-10-17T00:00:00.000Z",
+    "end": "2025-10-29T00:00:00.000Z",
+    "ttl": 1761751892
   },
   "longest_weekly_streak": {
-    "duration": 2,
+    "duration": 3,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-10-28T07:00:00.000Z",
-    "start": "2025-10-21T00:00:00.000Z",
-    "end": "2025-10-28T00:00:00.000Z"
+    "utcEndTime": "2025-10-29T07:00:00.000Z",
+    "start": "2025-10-17T00:00:00.000Z",
+    "end": "2025-10-29T00:00:00.000Z"
   },
-  "current_weekly_streak_state": "record_streak_broken",
+  "current_weekly_streak_state": "active",
   "goal_info": {
-    "goals": {},
+    "goals": {
+      "TITLES_READ_YEAR_2025": {
+        "target_goal": 8,
+        "has_been_congratulated": true,
+        "source_origin": "KINDLE"
+      }
+    },
     "titles_read": [
       {
-        "asin": "89B965055B1648CEA71827F9B02EF1D4",
-        "read_event_id": "3b37f66c-fa1b-484e-92b8-ab7a6fd5ee0f",
-        "date_read": "2024-06-04T15:51:42Z",
+        "asin": "438B79F078314BD69027ACF0C655D069",
+        "read_event_id": "df42715a-9ad0-4ec3-9504-04d91857f864",
+        "date_read": "2025-10-23T09:57:31-07:00",
         "content_type": "PDOC",
         "source_origin": "KINDLE",
         "book_uri": "UNKNOWN"
       },
       {
-        "asin": "F8FDD787C38F44A0A051C299191E8765",
-        "read_event_id": "904b4121-5a45-46d0-8e1b-f6dd7c820ed0",
-        "date_read": "2024-06-04T07:05:45Z",
+        "asin": "0D7A0A216AB3476AAC18D8C3E3791296",
+        "read_event_id": "f2c02225-a109-4af7-b6e1-b97095245087",
+        "date_read": "2025-10-23T04:19:03-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "3C301C998748497EAF34C50B50F25D0D",
+        "read_event_id": "afee1460-576c-4760-8236-8813c0eb9999",
+        "date_read": "2025-10-23T02:33:12-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "5182308047994C66A7FC477E3D7AF8C9",
+        "read_event_id": "cdfe53fc-9278-48d6-8236-679a4fba844a",
+        "date_read": "2025-10-23T02:07:00-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "5EE1CC71A92443EC986E6B3AA9684CD1",
+        "read_event_id": "cb75c46d-8752-470e-b43d-3e07757313ae",
+        "date_read": "2025-10-23T01:44:11-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "494D0EB39AC04652A8E849708BC091F5",
+        "read_event_id": "151e6ba2-fb8c-4a4e-903d-451c3b271e31",
+        "date_read": "2025-10-23T00:28:17-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "ED578EF7817949A58C38ACAA0FAE9053",
+        "read_event_id": "b0e4ba7b-0349-4923-ad75-5128a27623f9",
+        "date_read": "2025-10-22T23:11:26-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "B3225CA731004A28B323179077443097",
+        "read_event_id": "e32a0d8f-3a74-466e-be11-fa604b793000",
+        "date_read": "2025-10-22T22:10:35-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "3A39D3325B1C41D2BC1FDD1B4B0E3A9D",
+        "read_event_id": "5828e616-5561-4d90-9fbd-8b930963b1e3",
+        "date_read": "2025-10-22T21:31:41-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "E2F64AD6487D4D5AA4CE5AEBBA00AEFA",
+        "read_event_id": "3395208b-b79b-48aa-8747-ede6dc3c38a4",
+        "date_read": "2025-10-22T17:07:50-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "B879F3D68D354003A9D592A63710633A",
+        "read_event_id": "667b92a8-9c8a-40dd-99af-18673921bf56",
+        "date_read": "2025-10-22T16:21:41-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "CE92AA910A624EC6B1EC1FA6E98DF56E",
+        "read_event_id": "c7e8ce00-df78-48c5-8b1d-62d492ad2ffe",
+        "date_read": "2025-10-22T01:19:23-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "F669D6B5DA3740DB969C029703291A00",
+        "read_event_id": "56cad48c-449c-4511-816b-d3656aaefce9",
+        "date_read": "2025-10-21T17:29:25-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "A8DCBAD8897C48E5A4034E7B686EF7A7",
+        "read_event_id": "2a601ce8-7b0a-4cb0-9760-786b6a29a574",
+        "date_read": "2025-10-20T01:31:01-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "DEEA837BE9E745CF8C22CC5351E390F6",
+        "read_event_id": "2a5e4bb9-a9b4-4f8e-ae40-28346dc716ef",
+        "date_read": "2025-10-20T01:01:55-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "W5XLP3ZYRDSISRW4TPCVF74FOUHCLR5B",
+        "read_event_id": "d6e444be-de56-4c88-b042-2c34e20578f5",
+        "date_read": "2025-10-18T08:04:06-07:00",
         "content_type": "PDOC",
         "source_origin": "KINDLE",
         "book_uri": "UNKNOWN"
@@ -67,14 +188,14 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 64,
+    "daysLeftInCurrentChallenge": 63,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 1,
+    "totalEarnedAchievements": 5,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_HeadStart_09b4f501-d681-35c1-a3b9-5daf29329383.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_PerfectWeek_2f44a5ab-bd98-3e84-8228-ff7fa34d6a8b.png",
         "quantity": 1,
-        "title": "Head Start",
+        "title": "Perfect Week",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": true
       },
@@ -93,11 +214,11 @@
         "hasLevel": false
       },
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_Bookish_f259d25a-2f1c-39de-98e3-53bf2714e52d.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_PerfectMonth_cf56a3c0-9331-3abf-950e-46d7ac1e8967.png",
         "quantity": 0,
-        "title": "Bookish",
+        "title": "Perfect Month",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
+        "hasLevel": true
       }
     ]
   }
