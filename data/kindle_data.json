@@ -20,7 +20,7 @@
     "utcEndTime": "2025-10-29T07:00:00.000Z",
     "start": "2025-10-17T00:00:00.000Z",
     "end": "2025-10-29T00:00:00.000Z",
-    "ttl": 1761751892
+    "ttl": 1761795317
   },
   "longest_daily_streak": {
     "duration": 13,
@@ -35,7 +35,7 @@
     "utcEndTime": "2025-10-29T07:00:00.000Z",
     "start": "2025-10-17T00:00:00.000Z",
     "end": "2025-10-29T00:00:00.000Z",
-    "ttl": 1761751892
+    "ttl": 1761795317
   },
   "longest_weekly_streak": {
     "duration": 3,
@@ -54,6 +54,14 @@
       }
     },
     "titles_read": [
+      {
+        "asin": "61D3FB992E5B43EA93BB85365BF38A21",
+        "read_event_id": "1f53b03d-3dd6-44c1-8512-ae7330ea5c6e",
+        "date_read": "2025-10-29T17:56:33-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "438B79F078314BD69027ACF0C655D069",
         "read_event_id": "df42715a-9ad0-4ec3-9504-04d91857f864",
