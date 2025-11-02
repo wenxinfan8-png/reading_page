@@ -14,37 +14,38 @@
     "2025-10-28",
     "2025-10-29",
     "2025-10-30",
-    "2025-10-31"
+    "2025-10-31",
+    "2025-11-01"
   ],
   "current_daily_streak": {
-    "duration": 15,
+    "duration": 16,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-10-31T07:00:00.000Z",
+    "utcEndTime": "2025-11-01T07:00:00.000Z",
     "start": "2025-10-17T00:00:00.000Z",
-    "end": "2025-10-31T00:00:00.000Z",
-    "ttl": 1761968018
+    "end": "2025-11-01T00:00:00.000Z",
+    "ttl": 1762054648
   },
   "longest_daily_streak": {
-    "duration": 15,
+    "duration": 16,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-10-31T07:00:00.000Z",
+    "utcEndTime": "2025-11-01T07:00:00.000Z",
     "start": "2025-10-17T00:00:00.000Z",
-    "end": "2025-10-31T00:00:00.000Z"
+    "end": "2025-11-01T00:00:00.000Z"
   },
   "current_weekly_streak": {
     "duration": 3,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-10-31T07:00:00.000Z",
+    "utcEndTime": "2025-11-01T07:00:00.000Z",
     "start": "2025-10-17T00:00:00.000Z",
-    "end": "2025-10-31T00:00:00.000Z",
-    "ttl": 1761968018
+    "end": "2025-11-01T00:00:00.000Z",
+    "ttl": 1762054648
   },
   "longest_weekly_streak": {
     "duration": 3,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-10-31T07:00:00.000Z",
+    "utcEndTime": "2025-11-01T07:00:00.000Z",
     "start": "2025-10-17T00:00:00.000Z",
-    "end": "2025-10-31T00:00:00.000Z"
+    "end": "2025-11-01T00:00:00.000Z"
   },
   "current_weekly_streak_state": "active",
   "goal_info": {
@@ -56,6 +57,14 @@
       }
     },
     "titles_read": [
+      {
+        "asin": "D0D1EFCF41E2462692469DCE00CBFFBB",
+        "read_event_id": "bc4c9a7e-8071-4de4-8170-03272adb4c82",
+        "date_read": "2025-11-01T04:50:07-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "61D3FB992E5B43EA93BB85365BF38A21",
         "read_event_id": "1f53b03d-3dd6-44c1-8512-ae7330ea5c6e",
@@ -198,16 +207,16 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 61,
+    "daysLeftInCurrentChallenge": 60,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 6,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_BronzeReader_2ad3545a-52d9-3c3c-9fdd-c935e4a94744.png",
-        "quantity": 1,
-        "title": "Bronze Reader",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_HeadStart_09b4f501-d681-35c1-a3b9-5daf29329383.png",
+        "quantity": 2,
+        "title": "Head Start",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
+        "hasLevel": true
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_GoldReader_d1885062-9926-390f-bc57-5e95018fe6ea.png",
