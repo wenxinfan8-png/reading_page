@@ -24,37 +24,38 @@
     "2025-11-07",
     "2025-11-08",
     "2025-11-09",
-    "2025-11-10"
+    "2025-11-10",
+    "2025-11-11"
   ],
   "current_daily_streak": {
-    "duration": 25,
+    "duration": 26,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-10T08:00:00.000Z",
+    "utcEndTime": "2025-11-11T08:00:00.000Z",
     "start": "2025-10-17T00:00:00.000Z",
-    "end": "2025-11-10T00:00:00.000Z",
-    "ttl": 1762832130
+    "end": "2025-11-11T00:00:00.000Z",
+    "ttl": 1762918432
   },
   "longest_daily_streak": {
-    "duration": 25,
+    "duration": 26,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-10T08:00:00.000Z",
+    "utcEndTime": "2025-11-11T08:00:00.000Z",
     "start": "2025-10-17T00:00:00.000Z",
-    "end": "2025-11-10T00:00:00.000Z"
+    "end": "2025-11-11T00:00:00.000Z"
   },
   "current_weekly_streak": {
     "duration": 5,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-10T08:00:00.000Z",
+    "utcEndTime": "2025-11-11T08:00:00.000Z",
     "start": "2025-10-17T00:00:00.000Z",
-    "end": "2025-11-10T00:00:00.000Z",
-    "ttl": 1762832130
+    "end": "2025-11-11T00:00:00.000Z",
+    "ttl": 1762918432
   },
   "longest_weekly_streak": {
     "duration": 5,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-10T08:00:00.000Z",
+    "utcEndTime": "2025-11-11T08:00:00.000Z",
     "start": "2025-10-17T00:00:00.000Z",
-    "end": "2025-11-10T00:00:00.000Z"
+    "end": "2025-11-11T00:00:00.000Z"
   },
   "current_weekly_streak_state": "active",
   "goal_info": {
@@ -66,6 +67,30 @@
       }
     },
     "titles_read": [
+      {
+        "asin": "61687A2AAAE44EE5AD8E963BB2D839EE",
+        "read_event_id": "ff2af4da-0334-4a0c-9763-b7f5950305fb",
+        "date_read": "2025-11-11T14:25:51-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "A8EC2DEC50C64F259C793A0AE2494EAD",
+        "read_event_id": "2f6b1149-c1d1-49eb-82ce-28fd54b7cb2b",
+        "date_read": "2025-11-10T22:54:48-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "D066C44409074BDBBD17C99F51F44E26",
+        "read_event_id": "a848ff51-4970-4ce6-8bfb-094426870482",
+        "date_read": "2025-11-10T22:03:18-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "D0D1EFCF41E2462692469DCE00CBFFBB",
         "read_event_id": "bc4c9a7e-8071-4de4-8170-03272adb4c82",
@@ -216,7 +241,7 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 51,
+    "daysLeftInCurrentChallenge": 50,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 6,
     "achievementsDisplayAttributes": [
