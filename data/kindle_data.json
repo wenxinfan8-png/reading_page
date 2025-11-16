@@ -28,37 +28,38 @@
     "2025-11-11",
     "2025-11-12",
     "2025-11-13",
-    "2025-11-14"
+    "2025-11-14",
+    "2025-11-15"
   ],
   "current_daily_streak": {
-    "duration": 29,
+    "duration": 30,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-14T08:00:00.000Z",
+    "utcEndTime": "2025-11-15T08:00:00.000Z",
     "start": "2025-10-17T00:00:00.000Z",
-    "end": "2025-11-14T00:00:00.000Z",
-    "ttl": 1763176632
+    "end": "2025-11-15T00:00:00.000Z",
+    "ttl": 1763264381
   },
   "longest_daily_streak": {
-    "duration": 29,
+    "duration": 30,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-14T08:00:00.000Z",
+    "utcEndTime": "2025-11-15T08:00:00.000Z",
     "start": "2025-10-17T00:00:00.000Z",
-    "end": "2025-11-14T00:00:00.000Z"
+    "end": "2025-11-15T00:00:00.000Z"
   },
   "current_weekly_streak": {
     "duration": 5,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-14T08:00:00.000Z",
+    "utcEndTime": "2025-11-15T08:00:00.000Z",
     "start": "2025-10-17T00:00:00.000Z",
-    "end": "2025-11-14T00:00:00.000Z",
-    "ttl": 1763176632
+    "end": "2025-11-15T00:00:00.000Z",
+    "ttl": 1763264381
   },
   "longest_weekly_streak": {
     "duration": 5,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-14T08:00:00.000Z",
+    "utcEndTime": "2025-11-15T08:00:00.000Z",
     "start": "2025-10-17T00:00:00.000Z",
-    "end": "2025-11-14T00:00:00.000Z"
+    "end": "2025-11-15T00:00:00.000Z"
   },
   "current_weekly_streak_state": "active",
   "goal_info": {
@@ -284,13 +285,13 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 47,
+    "daysLeftInCurrentChallenge": 46,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 6,
     "achievementsDisplayAttributes": [
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_PerfectWeek_2f44a5ab-bd98-3e84-8228-ff7fa34d6a8b.png",
-        "quantity": 3,
+        "quantity": 4,
         "title": "Perfect Week",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": true
