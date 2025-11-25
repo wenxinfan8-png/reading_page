@@ -37,37 +37,38 @@
     "2025-11-20",
     "2025-11-21",
     "2025-11-22",
-    "2025-11-23"
+    "2025-11-23",
+    "2025-11-24"
   ],
   "current_daily_streak": {
-    "duration": 38,
+    "duration": 39,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-23T08:00:00.000Z",
+    "utcEndTime": "2025-11-24T08:00:00.000Z",
     "start": "2025-10-17T00:00:00.000Z",
-    "end": "2025-11-23T00:00:00.000Z",
-    "ttl": 1763956014
+    "end": "2025-11-24T00:00:00.000Z",
+    "ttl": 1764041853
   },
   "longest_daily_streak": {
-    "duration": 38,
+    "duration": 39,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-23T08:00:00.000Z",
+    "utcEndTime": "2025-11-24T08:00:00.000Z",
     "start": "2025-10-17T00:00:00.000Z",
-    "end": "2025-11-23T00:00:00.000Z"
+    "end": "2025-11-24T00:00:00.000Z"
   },
   "current_weekly_streak": {
     "duration": 7,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-23T08:00:00.000Z",
+    "utcEndTime": "2025-11-24T08:00:00.000Z",
     "start": "2025-10-17T00:00:00.000Z",
-    "end": "2025-11-23T00:00:00.000Z",
-    "ttl": 1763956014
+    "end": "2025-11-24T00:00:00.000Z",
+    "ttl": 1764041853
   },
   "longest_weekly_streak": {
     "duration": 7,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-23T08:00:00.000Z",
+    "utcEndTime": "2025-11-24T08:00:00.000Z",
     "start": "2025-10-17T00:00:00.000Z",
-    "end": "2025-11-23T00:00:00.000Z"
+    "end": "2025-11-24T00:00:00.000Z"
   },
   "current_weekly_streak_state": "active",
   "goal_info": {
@@ -79,6 +80,14 @@
       }
     },
     "titles_read": [
+      {
+        "asin": "131563C13B8F423AA93A1EC68D3315ED",
+        "read_event_id": "86bbdf2a-a4a7-40ad-a998-c6dc25b570f1",
+        "date_read": "2025-11-24T08:16:30-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "567F69CCDE364AD9BFF47E07219E3A1B",
         "read_event_id": "7ae48f49-f1f6-482c-8c11-420b5c5a2c5c",
@@ -349,16 +358,16 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 38,
+    "daysLeftInCurrentChallenge": 37,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 6,
+    "totalEarnedAchievements": 7,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_PerfectWeek_2f44a5ab-bd98-3e84-8228-ff7fa34d6a8b.png",
-        "quantity": 5,
-        "title": "Perfect Week",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_HouseCat_129cb6fe-a249-4e78-8f67-ca48bf36bdbc.png",
+        "quantity": 1,
+        "title": "House Cat",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": true
+        "hasLevel": false
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_GoldReader_d1885062-9926-390f-bc57-5e95018fe6ea.png",
