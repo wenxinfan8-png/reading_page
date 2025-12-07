@@ -49,37 +49,38 @@
     "2025-12-02",
     "2025-12-03",
     "2025-12-04",
-    "2025-12-05"
+    "2025-12-05",
+    "2025-12-06"
   ],
   "current_daily_streak": {
-    "duration": 50,
+    "duration": 51,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-12-05T08:00:00.000Z",
+    "utcEndTime": "2025-12-06T08:00:00.000Z",
     "start": "2025-10-17T00:00:00.000Z",
-    "end": "2025-12-05T00:00:00.000Z",
-    "ttl": 1764982021
+    "end": "2025-12-06T00:00:00.000Z",
+    "ttl": 1765068933
   },
   "longest_daily_streak": {
-    "duration": 50,
+    "duration": 51,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-12-05T08:00:00.000Z",
+    "utcEndTime": "2025-12-06T08:00:00.000Z",
     "start": "2025-10-17T00:00:00.000Z",
-    "end": "2025-12-05T00:00:00.000Z"
+    "end": "2025-12-06T00:00:00.000Z"
   },
   "current_weekly_streak": {
     "duration": 8,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-12-05T08:00:00.000Z",
+    "utcEndTime": "2025-12-06T08:00:00.000Z",
     "start": "2025-10-17T00:00:00.000Z",
-    "end": "2025-12-05T00:00:00.000Z",
-    "ttl": 1764982021
+    "end": "2025-12-06T00:00:00.000Z",
+    "ttl": 1765068933
   },
   "longest_weekly_streak": {
     "duration": 8,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-12-05T08:00:00.000Z",
+    "utcEndTime": "2025-12-06T08:00:00.000Z",
     "start": "2025-10-17T00:00:00.000Z",
-    "end": "2025-12-05T00:00:00.000Z"
+    "end": "2025-12-06T00:00:00.000Z"
   },
   "current_weekly_streak_state": "active",
   "goal_info": {
@@ -370,14 +371,14 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "C",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 26,
+    "daysLeftInCurrentChallenge": 25,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 9,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_HeadStart_09b4f501-d681-35c1-a3b9-5daf29329383.png",
-        "quantity": 3,
-        "title": "Head Start",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_PerfectWeek_2f44a5ab-bd98-3e84-8228-ff7fa34d6a8b.png",
+        "quantity": 7,
+        "title": "Perfect Week",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": true
       },
