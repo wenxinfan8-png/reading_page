@@ -63,37 +63,38 @@
     "2025-12-16",
     "2025-12-17",
     "2025-12-18",
-    "2025-12-19"
+    "2025-12-19",
+    "2025-12-20"
   ],
   "current_daily_streak": {
-    "duration": 64,
+    "duration": 65,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-12-19T08:00:00.000Z",
+    "utcEndTime": "2025-12-20T08:00:00.000Z",
     "start": "2025-10-17T00:00:00.000Z",
-    "end": "2025-12-19T00:00:00.000Z",
-    "ttl": 1766191672
+    "end": "2025-12-20T00:00:00.000Z",
+    "ttl": 1766278542
   },
   "longest_daily_streak": {
-    "duration": 64,
+    "duration": 65,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-12-19T08:00:00.000Z",
+    "utcEndTime": "2025-12-20T08:00:00.000Z",
     "start": "2025-10-17T00:00:00.000Z",
-    "end": "2025-12-19T00:00:00.000Z"
+    "end": "2025-12-20T00:00:00.000Z"
   },
   "current_weekly_streak": {
     "duration": 10,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-12-19T08:00:00.000Z",
+    "utcEndTime": "2025-12-20T08:00:00.000Z",
     "start": "2025-10-17T00:00:00.000Z",
-    "end": "2025-12-19T00:00:00.000Z",
-    "ttl": 1766191672
+    "end": "2025-12-20T00:00:00.000Z",
+    "ttl": 1766278542
   },
   "longest_weekly_streak": {
     "duration": 10,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-12-19T08:00:00.000Z",
+    "utcEndTime": "2025-12-20T08:00:00.000Z",
     "start": "2025-10-17T00:00:00.000Z",
-    "end": "2025-12-19T00:00:00.000Z"
+    "end": "2025-12-20T00:00:00.000Z"
   },
   "current_weekly_streak_state": "active",
   "goal_info": {
@@ -392,16 +393,16 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T2",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 12,
+    "daysLeftInCurrentChallenge": 11,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 10,
+    "totalEarnedAchievements": 11,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_Trendsetter_b4eaf405-2b34-4f34-b8b0-bee54a0ac60b.png",
-        "quantity": 1,
-        "title": "Trendsetter",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_PerfectWeek_2f44a5ab-bd98-3e84-8228-ff7fa34d6a8b.png",
+        "quantity": 9,
+        "title": "Perfect Week",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
+        "hasLevel": true
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_GoldReader_d1885062-9926-390f-bc57-5e95018fe6ea.png",
