@@ -74,37 +74,38 @@
     "2025-12-27",
     "2025-12-28",
     "2025-12-29",
-    "2025-12-30"
+    "2025-12-30",
+    "2025-12-31"
   ],
   "current_daily_streak": {
-    "duration": 75,
+    "duration": 76,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-12-30T08:00:00.000Z",
+    "utcEndTime": "2025-12-31T08:00:00.000Z",
     "start": "2025-10-17T00:00:00.000Z",
-    "end": "2025-12-30T00:00:00.000Z",
-    "ttl": 1767142422
+    "end": "2025-12-31T00:00:00.000Z",
+    "ttl": 1767229123
   },
   "longest_daily_streak": {
-    "duration": 75,
+    "duration": 76,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-12-30T08:00:00.000Z",
+    "utcEndTime": "2025-12-31T08:00:00.000Z",
     "start": "2025-10-17T00:00:00.000Z",
-    "end": "2025-12-30T00:00:00.000Z"
+    "end": "2025-12-31T00:00:00.000Z"
   },
   "current_weekly_streak": {
     "duration": 12,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-12-30T08:00:00.000Z",
+    "utcEndTime": "2025-12-31T08:00:00.000Z",
     "start": "2025-10-17T00:00:00.000Z",
-    "end": "2025-12-30T00:00:00.000Z",
-    "ttl": 1767142422
+    "end": "2025-12-31T00:00:00.000Z",
+    "ttl": 1767229123
   },
   "longest_weekly_streak": {
     "duration": 12,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-12-30T08:00:00.000Z",
+    "utcEndTime": "2025-12-31T08:00:00.000Z",
     "start": "2025-10-17T00:00:00.000Z",
-    "end": "2025-12-30T00:00:00.000Z"
+    "end": "2025-12-31T00:00:00.000Z"
   },
   "current_weekly_streak_state": "active",
   "goal_info": {
@@ -403,16 +404,16 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T2",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 1,
+    "daysLeftInCurrentChallenge": 0,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 12,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_GoldReader_3e181254-d146-3816-ac78-45edadd3f613.png",
-        "quantity": 1,
-        "title": "Gold Reader",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_PerfectMonth_7e50153a-47ab-3e55-9696-dfd76d566392.png",
+        "quantity": 2,
+        "title": "Perfect Month",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
+        "hasLevel": true
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_PumpkinPrime_81c49b67-9e95-4e69-b17a-b8e1fa268abf.png",
