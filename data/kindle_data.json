@@ -85,15 +85,16 @@
     "2026-01-07",
     "2026-01-08",
     "2026-01-09",
-    "2026-01-10"
+    "2026-01-10",
+    "2026-01-12"
   ],
   "current_daily_streak": {
-    "duration": 86,
+    "duration": 1,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-01-10T08:00:00.000Z",
-    "start": "2025-10-17T00:00:00.000Z",
-    "end": "2026-01-10T00:00:00.000Z",
-    "ttl": 1768179379
+    "utcEndTime": "2026-01-12T08:00:00.000Z",
+    "start": "2026-01-12T00:00:00.000Z",
+    "end": "2026-01-12T00:00:00.000Z",
+    "ttl": 1768265336
   },
   "longest_daily_streak": {
     "duration": 86,
@@ -103,19 +104,19 @@
     "end": "2026-01-10T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 13,
+    "duration": 14,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-01-10T08:00:00.000Z",
+    "utcEndTime": "2026-01-12T08:00:00.000Z",
     "start": "2025-10-17T00:00:00.000Z",
-    "end": "2026-01-10T00:00:00.000Z",
-    "ttl": 1768179379
+    "end": "2026-01-12T00:00:00.000Z",
+    "ttl": 1768265336
   },
   "longest_weekly_streak": {
-    "duration": 13,
+    "duration": 14,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-01-10T08:00:00.000Z",
+    "utcEndTime": "2026-01-12T08:00:00.000Z",
     "start": "2025-10-17T00:00:00.000Z",
-    "end": "2026-01-10T00:00:00.000Z"
+    "end": "2026-01-12T00:00:00.000Z"
   },
   "current_weekly_streak_state": "active",
   "goal_info": {
@@ -414,7 +415,7 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T2",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 79,
+    "daysLeftInCurrentChallenge": 78,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 2,
     "achievementsDisplayAttributes": [
