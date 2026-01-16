@@ -88,15 +88,16 @@
     "2026-01-10",
     "2026-01-12",
     "2026-01-13",
-    "2026-01-14"
+    "2026-01-14",
+    "2026-01-15"
   ],
   "current_daily_streak": {
-    "duration": 3,
+    "duration": 4,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-01-14T08:00:00.000Z",
+    "utcEndTime": "2026-01-15T08:00:00.000Z",
     "start": "2026-01-12T00:00:00.000Z",
-    "end": "2026-01-14T00:00:00.000Z",
-    "ttl": 1768438295
+    "end": "2026-01-15T00:00:00.000Z",
+    "ttl": 1768524853
   },
   "longest_daily_streak": {
     "duration": 86,
@@ -108,17 +109,17 @@
   "current_weekly_streak": {
     "duration": 14,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-01-14T08:00:00.000Z",
+    "utcEndTime": "2026-01-15T08:00:00.000Z",
     "start": "2025-10-17T00:00:00.000Z",
-    "end": "2026-01-14T00:00:00.000Z",
-    "ttl": 1768438295
+    "end": "2026-01-15T00:00:00.000Z",
+    "ttl": 1768524853
   },
   "longest_weekly_streak": {
     "duration": 14,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-01-14T08:00:00.000Z",
+    "utcEndTime": "2026-01-15T08:00:00.000Z",
     "start": "2025-10-17T00:00:00.000Z",
-    "end": "2026-01-14T00:00:00.000Z"
+    "end": "2026-01-15T00:00:00.000Z"
   },
   "current_weekly_streak_state": "active",
   "goal_info": {
@@ -130,6 +131,14 @@
       }
     },
     "titles_read": [
+      {
+        "asin": "2F6469C75AE94E679B862E9C0A7749D5",
+        "read_event_id": "29894edb-faff-41ad-a772-ed417cd5d6f1",
+        "date_read": "2026-01-14T16:59:06-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "6118760A886E4C8CA8B2C07540203516",
         "read_event_id": "631695db-1ddc-47c3-a462-02b3880343d5",
@@ -417,14 +426,14 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T2",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 76,
+    "daysLeftInCurrentChallenge": 75,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 3,
+    "totalEarnedAchievements": 4,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_ReadersDozen_49b2b7ea-eab2-4f91-9897-9ef7482f87d9.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_Bookish_59a1a25a-c831-32be-9dee-cb84602cba40.png",
         "quantity": 1,
-        "title": "Reader's Dozen",
+        "title": "Bookish",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       },
@@ -443,9 +452,9 @@
         "hasLevel": false
       },
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_Bookish_6a55c846-0c52-3449-a1e7-55d7fb6cdef4.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_Bibliophile_6b75e39a-c235-379a-bb31-7de2b60acb90.png",
         "quantity": 0,
-        "title": "Bookish",
+        "title": "Bibliophile",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       }
