@@ -97,15 +97,16 @@
     "2026-01-20",
     "2026-01-21",
     "2026-01-22",
-    "2026-01-23"
+    "2026-01-23",
+    "2026-01-24"
   ],
   "current_daily_streak": {
-    "duration": 12,
+    "duration": 13,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-01-23T08:00:00.000Z",
+    "utcEndTime": "2026-01-24T08:00:00.000Z",
     "start": "2026-01-12T00:00:00.000Z",
-    "end": "2026-01-23T00:00:00.000Z",
-    "ttl": 1769215921
+    "end": "2026-01-24T00:00:00.000Z",
+    "ttl": 1769302770
   },
   "longest_daily_streak": {
     "duration": 86,
@@ -117,17 +118,17 @@
   "current_weekly_streak": {
     "duration": 15,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-01-23T08:00:00.000Z",
+    "utcEndTime": "2026-01-24T08:00:00.000Z",
     "start": "2025-10-17T00:00:00.000Z",
-    "end": "2026-01-23T00:00:00.000Z",
-    "ttl": 1769215921
+    "end": "2026-01-24T00:00:00.000Z",
+    "ttl": 1769302770
   },
   "longest_weekly_streak": {
     "duration": 15,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-01-23T08:00:00.000Z",
+    "utcEndTime": "2026-01-24T08:00:00.000Z",
     "start": "2025-10-17T00:00:00.000Z",
-    "end": "2026-01-23T00:00:00.000Z"
+    "end": "2026-01-24T00:00:00.000Z"
   },
   "current_weekly_streak_state": "active",
   "goal_info": {
@@ -139,6 +140,30 @@
       }
     },
     "titles_read": [
+      {
+        "asin": "4B2AF2FECBA047E1B2E54308574B9389",
+        "read_event_id": "207835b0-2d60-49f4-94c0-237b9f05bd77",
+        "date_read": "2026-01-24T04:26:51-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "DF2D537C78F74EEF81B2B966E6985EA4",
+        "read_event_id": "484d6c9b-e88f-4528-bf52-5559f6ce8453",
+        "date_read": "2026-01-24T03:05:27-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "C03C483F1DF641D18EA40FEE25A39B20",
+        "read_event_id": "544733a0-97fa-4564-9acd-26de097ea0e1",
+        "date_read": "2026-01-24T01:11:58-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "2DD1D85BE2F341898E9AD1F634803E73",
         "read_event_id": "5d44a597-b180-4f35-9d4f-6f4e5658d9bf",
@@ -442,16 +467,16 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T2",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 67,
+    "daysLeftInCurrentChallenge": 66,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 6,
+    "totalEarnedAchievements": 7,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_Bookworm_50bad16e-c23b-3f36-af72-4fe0a33286c3.png",
-        "quantity": 1,
-        "title": "Bookworm",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_PerfectWeek_36274a90-edba-34e4-86b8-da64e8cfa5c6.png",
+        "quantity": 3,
+        "title": "Perfect Week",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
+        "hasLevel": true
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_GoldReader_b382f6a0-5c4b-382c-95dd-6b9b05732870.png",
@@ -468,11 +493,11 @@
         "hasLevel": false
       },
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_Bibliophile_6b75e39a-c235-379a-bb31-7de2b60acb90.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_PerfectMonth_845978f4-f40d-3f29-9601-37e8742b27d2.png",
         "quantity": 0,
-        "title": "Bibliophile",
+        "title": "Perfect Month",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
+        "hasLevel": true
       }
     ]
   }
