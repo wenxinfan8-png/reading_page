@@ -98,15 +98,17 @@
     "2026-01-21",
     "2026-01-22",
     "2026-01-23",
-    "2026-01-24"
+    "2026-01-24",
+    "2026-01-25",
+    "2026-01-26"
   ],
   "current_daily_streak": {
-    "duration": 13,
+    "duration": 15,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-01-24T08:00:00.000Z",
+    "utcEndTime": "2026-01-26T08:00:00.000Z",
     "start": "2026-01-12T00:00:00.000Z",
-    "end": "2026-01-24T00:00:00.000Z",
-    "ttl": 1769389101
+    "end": "2026-01-26T00:00:00.000Z",
+    "ttl": 1769475412
   },
   "longest_daily_streak": {
     "duration": 86,
@@ -116,19 +118,19 @@
     "end": "2026-01-10T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 15,
+    "duration": 16,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-01-24T08:00:00.000Z",
+    "utcEndTime": "2026-01-26T08:00:00.000Z",
     "start": "2025-10-17T00:00:00.000Z",
-    "end": "2026-01-24T00:00:00.000Z",
-    "ttl": 1769389101
+    "end": "2026-01-26T00:00:00.000Z",
+    "ttl": 1769475412
   },
   "longest_weekly_streak": {
-    "duration": 15,
+    "duration": 16,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-01-24T08:00:00.000Z",
+    "utcEndTime": "2026-01-26T08:00:00.000Z",
     "start": "2025-10-17T00:00:00.000Z",
-    "end": "2026-01-24T00:00:00.000Z"
+    "end": "2026-01-26T00:00:00.000Z"
   },
   "current_weekly_streak_state": "active",
   "goal_info": {
@@ -140,6 +142,14 @@
       }
     },
     "titles_read": [
+      {
+        "asin": "199ACB9184394C759544B2BE6EDC3AC6",
+        "read_event_id": "84827fd5-bf61-4730-a9f6-4b3f7f3c9e9d",
+        "date_read": "2026-01-26T03:39:15-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "4B2AF2FECBA047E1B2E54308574B9389",
         "read_event_id": "207835b0-2d60-49f4-94c0-237b9f05bd77",
@@ -467,7 +477,7 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T2",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 65,
+    "daysLeftInCurrentChallenge": 64,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 7,
     "achievementsDisplayAttributes": [
