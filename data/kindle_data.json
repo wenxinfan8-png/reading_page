@@ -117,10 +117,17 @@
     "2026-02-10",
     "2026-02-11",
     "2026-02-12",
-    "2026-02-15"
+    "2026-02-15",
+    "2026-02-17",
+    "2026-02-18"
   ],
   "current_daily_streak": {
-    "duration": 0
+    "duration": 2,
+    "readingMarketplace": 1,
+    "utcEndTime": "2026-02-18T08:00:00.000Z",
+    "start": "2026-02-17T00:00:00.000Z",
+    "end": "2026-02-18T00:00:00.000Z",
+    "ttl": 1771463236
   },
   "longest_daily_streak": {
     "duration": 86,
@@ -132,17 +139,17 @@
   "current_weekly_streak": {
     "duration": 19,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-02-15T08:00:00.000Z",
+    "utcEndTime": "2026-02-18T08:00:00.000Z",
     "start": "2025-10-17T00:00:00.000Z",
-    "end": "2026-02-15T00:00:00.000Z",
-    "ttl": 1771376880
+    "end": "2026-02-18T00:00:00.000Z",
+    "ttl": 1771463236
   },
   "longest_weekly_streak": {
     "duration": 19,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-02-15T08:00:00.000Z",
+    "utcEndTime": "2026-02-18T08:00:00.000Z",
     "start": "2025-10-17T00:00:00.000Z",
-    "end": "2026-02-15T00:00:00.000Z"
+    "end": "2026-02-18T00:00:00.000Z"
   },
   "current_weekly_streak_state": "active",
   "goal_info": {
@@ -553,7 +560,7 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T2",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 42,
+    "daysLeftInCurrentChallenge": 41,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 10,
     "achievementsDisplayAttributes": [
