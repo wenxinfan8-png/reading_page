@@ -124,10 +124,16 @@
     "2026-02-22",
     "2026-02-23",
     "2026-02-24",
-    "2026-02-25"
+    "2026-02-25",
+    "2026-03-04"
   ],
   "current_daily_streak": {
-    "duration": 0
+    "duration": 1,
+    "readingMarketplace": 1,
+    "utcEndTime": "2026-03-04T08:00:00.000Z",
+    "start": "2026-03-04T00:00:00.000Z",
+    "end": "2026-03-04T00:00:00.000Z",
+    "ttl": 1772672718
   },
   "longest_daily_streak": {
     "duration": 86,
@@ -137,19 +143,19 @@
     "end": "2026-01-10T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 20,
+    "duration": 21,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-02-25T08:00:00.000Z",
+    "utcEndTime": "2026-03-04T08:00:00.000Z",
     "start": "2025-10-17T00:00:00.000Z",
-    "end": "2026-02-25T00:00:00.000Z",
-    "ttl": 1772586152
+    "end": "2026-03-04T00:00:00.000Z",
+    "ttl": 1772672718
   },
   "longest_weekly_streak": {
-    "duration": 20,
+    "duration": 21,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-02-25T08:00:00.000Z",
+    "utcEndTime": "2026-03-04T08:00:00.000Z",
     "start": "2025-10-17T00:00:00.000Z",
-    "end": "2026-02-25T00:00:00.000Z"
+    "end": "2026-03-04T00:00:00.000Z"
   },
   "current_weekly_streak_state": "active",
   "goal_info": {
@@ -560,16 +566,16 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 28,
+    "daysLeftInCurrentChallenge": 27,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 10,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_SilverReader_29169293-2a2e-34e8-a885-6357b62363dd.png",
-        "quantity": 1,
-        "title": "Silver Reader",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_HeadStart_896ce0f2-38a8-30c7-b3ac-0715b1a782ba.png",
+        "quantity": 3,
+        "title": "Head Start",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
+        "hasLevel": true
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_GoldReader_b382f6a0-5c4b-382c-95dd-6b9b05732870.png",
