@@ -129,10 +129,16 @@
     "2026-03-08",
     "2026-03-10",
     "2026-03-13",
-    "2026-03-16"
+    "2026-03-16",
+    "2026-05-25"
   ],
   "current_daily_streak": {
-    "duration": 0
+    "duration": 1,
+    "readingMarketplace": 1,
+    "utcEndTime": "2026-05-25T07:00:00.000Z",
+    "start": "2026-05-25T00:00:00.000Z",
+    "end": "2026-05-25T00:00:00.000Z",
+    "ttl": 1779760722
   },
   "longest_daily_streak": {
     "duration": 86,
@@ -142,7 +148,12 @@
     "end": "2026-01-10T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 0
+    "duration": 1,
+    "readingMarketplace": 1,
+    "utcEndTime": "2026-05-25T07:00:00.000Z",
+    "start": "2026-05-25T00:00:00.000Z",
+    "end": "2026-05-25T00:00:00.000Z",
+    "ttl": 1779760722
   },
   "longest_weekly_streak": {
     "duration": 23,
@@ -151,7 +162,7 @@
     "start": "2025-10-17T00:00:00.000Z",
     "end": "2026-03-16T00:00:00.000Z"
   },
-  "current_weekly_streak_state": "inactive",
+  "current_weekly_streak_state": "active",
   "goal_info": {
     "goals": {
       "TITLES_READ_YEAR_2025": {
@@ -560,10 +571,17 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 37,
+    "daysLeftInCurrentChallenge": 36,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 0,
+    "totalEarnedAchievements": 1,
     "achievementsDisplayAttributes": [
+      {
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_HeadStart_edfab7da-b953-33cf-a0fe-d3e6dacedd38.png",
+        "quantity": 1,
+        "title": "Head Start",
+        "isUnrevealedMysteryAchievement": false,
+        "hasLevel": true
+      },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_GoldReader_d3173512-7315-3369-8a11-06f88d6fa347.png",
         "quantity": 0,
@@ -582,13 +600,6 @@
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_Bookish_924d3337-4102-38dc-a68f-59fe9a7b90a3.png",
         "quantity": 0,
         "title": "Bookish",
-        "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
-      },
-      {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_Bibliophile_754718fd-17d2-36d8-a297-d41208e9325a.png",
-        "quantity": 0,
-        "title": "Bibliophile",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       }
