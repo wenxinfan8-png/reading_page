@@ -136,10 +136,16 @@
     "2026-07-09",
     "2026-07-11",
     "2026-07-13",
-    "2026-09-28"
+    "2026-09-28",
+    "2026-10-03"
   ],
   "current_daily_streak": {
-    "duration": 0
+    "duration": 1,
+    "readingMarketplace": 1,
+    "utcEndTime": "2026-10-03T07:00:00.000Z",
+    "start": "2026-10-03T00:00:00.000Z",
+    "end": "2026-10-03T00:00:00.000Z",
+    "ttl": 1791083446
   },
   "longest_daily_streak": {
     "duration": 86,
@@ -151,10 +157,10 @@
   "current_weekly_streak": {
     "duration": 1,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-09-28T07:00:00.000Z",
+    "utcEndTime": "2026-10-03T07:00:00.000Z",
     "start": "2026-09-28T00:00:00.000Z",
-    "end": "2026-09-28T00:00:00.000Z",
-    "ttl": 1790995154
+    "end": "2026-10-03T00:00:00.000Z",
+    "ttl": 1791083446
   },
   "longest_weekly_streak": {
     "duration": 23,
@@ -571,10 +577,17 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 90,
+    "daysLeftInCurrentChallenge": 89,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 0,
+    "totalEarnedAchievements": 1,
     "achievementsDisplayAttributes": [
+      {
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026FallChallenge_HeadStart_cd65787c-fd83-3d0d-9dda-99be74a0da68.png",
+        "quantity": 1,
+        "title": "Head Start",
+        "isUnrevealedMysteryAchievement": false,
+        "hasLevel": true
+      },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026FallChallenge_GoldReader_ac8cd0df-960b-3141-8675-e87eac63b93f.png",
         "quantity": 0,
@@ -593,13 +606,6 @@
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026FallChallenge_Bookish_4876ad16-8a20-36c5-8942-0e04d94b1361.png",
         "quantity": 0,
         "title": "Bookish",
-        "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
-      },
-      {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026FallChallenge_Bibliophile_594da21e-a9a0-3027-8cb1-b02b0a0ee2e6.png",
-        "quantity": 0,
-        "title": "Bibliophile",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       }
