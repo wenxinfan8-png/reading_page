@@ -166,7 +166,7 @@
     "utcEndTime": "2026-11-16T08:00:00.000Z",
     "start": "2026-11-14T00:00:00.000Z",
     "end": "2026-11-16T00:00:00.000Z",
-    "ttl": 1795063778
+    "ttl": 1795149603
   },
   "longest_weekly_streak": {
     "duration": 23,
@@ -583,7 +583,7 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 43,
+    "daysLeftInCurrentChallenge": 42,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 1,
     "achievementsDisplayAttributes": [
